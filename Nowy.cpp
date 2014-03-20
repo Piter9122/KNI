@@ -12,13 +12,16 @@ using namespace std;
 #define RANDOMIK rand()%2
 #define LUB_NIE
 
+#define heheszki cout << ":-)" << endl;
+#define smuteczek cout << ":-(" << endl;
+
 MEJN
 	PENTLA
 	
 		WARUNECZEK(RANDOMIK)
-			cout << ":-)" << endl;
+			heheszki
 		ALBO_NIE
-			cout << ":-(" << endl;
+			smuteczek
 	
 	KONIEC_PENTLI
 RITERN
