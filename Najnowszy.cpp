@@ -1,1 +1,1 @@
-#define Bardzo_lubie_MiNI true
+#define Bardz_lubie_MiNI false
