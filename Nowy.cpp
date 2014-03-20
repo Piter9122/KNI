@@ -10,7 +10,7 @@ using namespace std;
 
 #define WARUNECZEK(x) if(x){
 #define RANDOMIK rand()%2
-#define LUB_NIE
+#define ALBO_NIE else
 
 #define heheszki cout << ":-)" << endl;
 #define smuteczek cout << ":-(" << endl;
